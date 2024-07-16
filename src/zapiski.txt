@@ -1,0 +1,9 @@
+//!1.npm install -g typescript
+//!2.tsc index.ts
+//!3.nardis fajl tsconfig.json z komando tsc --init
+//!4.enablaš nekatere nastavitve v tsconfig.json nardiš src in dist fajle
+//!5.potem vsakič z komando tsc scompajlaš tsc fajl v js fajl
+//! 6.potem lahko v debug panel nardiš create launch json fajl kjer dodaš prelaunch
+
+7.v typescriptu nerabmo vedno napisat ali je variable number ali string zaradi compilerja
+8. če se le da se izogni any type 
